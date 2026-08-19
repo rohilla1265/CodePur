@@ -46,8 +46,7 @@ Follow these instructions to set up and run CodePur on your local machine.
 ### 📥 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/codepur.git](https://github.com/your-username/codepur.git)
-cd codepur
+git clone
 ⚙️ 2. Environment Setup
 Create .env files in both frontend and backend root directories:
 
